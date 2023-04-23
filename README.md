@@ -7,11 +7,11 @@ All credits to **Liviu Schera**.
 
 
 <p align="center">
-   <img width="170" src="/Noctis/Noctis/images/logo.png" />
+   <img width="170" src="/Noctis/images/logo.png" />
 </p>
 
 <p align="center">
-   <img width="400" src="/Noctis/Noctis/images/noctisLogo.png" />
+   <img width="400" src="/Noctis/images/noctisLogo.png" />
 </p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
