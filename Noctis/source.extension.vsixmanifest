@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Noctis.5c5bfe4c-d096-45ca-8e20-eb3a7e2d3712" Version="10.40.0.21" Language="en-US" Publisher="Pasquale Dante" />
+        <Identity Id="Noctis.5c5bfe4c-d096-45ca-8e20-eb3a7e2d3712" Version="10.43.0.3" Language="en-US" Publisher="Pasquale Dante" />
         <DisplayName>Noctis (vscode porting)</DisplayName>
         <Description xml:space="preserve">Noctis is a collection of light &amp; dark themes with a well balanced blend of warm and cold colors.
 This is a port of the original project made by Liviu Schera at https://github.com/liviuschera/noctis/commits. The port was made thanks to Microsoft ThemeConverter at https://github.com/microsoft/theme-converter-for-vs </Description>
